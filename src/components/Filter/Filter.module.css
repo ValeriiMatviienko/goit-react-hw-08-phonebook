@@ -1,0 +1,21 @@
+.wrapper {
+  border-bottom: 1px solid #000;
+  width: 450px;
+  margin-bottom: 10px;
+}
+.label {
+  font-size: 16px;
+  font-weight: bold;
+  color: #343;
+  padding: 8px;
+}
+
+.input {
+  display: block;
+  padding: 5px;
+  margin-top: 12px;
+  font-size: 16px;
+  font-style: italic;
+  border-radius: 8px;
+  border: 1px solid #aaa;
+}

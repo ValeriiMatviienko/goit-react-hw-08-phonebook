@@ -1,0 +1,36 @@
+.list {
+  list-style: none;
+}
+
+.item {
+  border: 1px solid #aac;
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+  width: 450px;
+  border-radius: 8px;
+}
+
+.item > span {
+  font-size: 18px;
+  font-style: italic;
+  color: #334;
+}
+
+.close {
+  width: 26px;
+  height: 26px;
+  line-height: 26px;
+  border: none;
+  background-color: #e66;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 100%;
+  font-size: 18px;
+  color: #ffc;
+  cursor: pointer;
+  transform: rotate(45deg);
+  padding: 0;
+}

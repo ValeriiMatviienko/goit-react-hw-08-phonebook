@@ -1,0 +1,13 @@
+.section {
+  width: 770px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.heading {
+  font-size: 40px;
+  padding: 0;
+  margin-bottom: 20px;
+  font-style: italic;
+  color: #343;
+}
